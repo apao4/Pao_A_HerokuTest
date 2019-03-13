@@ -13,8 +13,10 @@ const data = {
         name: "user2",
         role: "designer",
         bio: "some bio info goes here",
-        bioPic: ""
+        bioPic: "/images/hannah.jpg"
     }
 };
 
 module.exports = data;
+
+//throw an image here
